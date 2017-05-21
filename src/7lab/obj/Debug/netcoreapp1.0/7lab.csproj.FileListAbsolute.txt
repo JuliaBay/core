@@ -1,0 +1,9 @@
+C:\Users\JuliaBay\Downloads\lab_7-master\lab_7-master\src\7lab\bin\Debug\netcoreapp1.0\7lab.deps.json
+C:\Users\JuliaBay\Downloads\lab_7-master\lab_7-master\src\7lab\bin\Debug\netcoreapp1.0\7lab.runtimeconfig.json
+C:\Users\JuliaBay\Downloads\lab_7-master\lab_7-master\src\7lab\bin\Debug\netcoreapp1.0\7lab.runtimeconfig.dev.json
+C:\Users\JuliaBay\Downloads\lab_7-master\lab_7-master\src\7lab\bin\Debug\netcoreapp1.0\7lab.dll
+C:\Users\JuliaBay\Downloads\lab_7-master\lab_7-master\src\7lab\bin\Debug\netcoreapp1.0\7lab.pdb
+C:\Users\JuliaBay\Downloads\lab_7-master\lab_7-master\src\7lab\obj\Debug\netcoreapp1.0\7lab.csprojResolveAssemblyReference.cache
+C:\Users\JuliaBay\Downloads\lab_7-master\lab_7-master\src\7lab\obj\Debug\netcoreapp1.0\7lab.AssemblyInfo.cs
+C:\Users\JuliaBay\Downloads\lab_7-master\lab_7-master\src\7lab\obj\Debug\netcoreapp1.0\7lab.dll
+C:\Users\JuliaBay\Downloads\lab_7-master\lab_7-master\src\7lab\obj\Debug\netcoreapp1.0\7lab.pdb
